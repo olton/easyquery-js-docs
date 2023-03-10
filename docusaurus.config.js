@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Korzh.com', // Usually your GitHub org/user name.
-  projectName: 'EasyQuery', // Usually your repo name.
+  projectName: 'EasyQuery.JS', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -71,7 +71,7 @@ const config = {
           {
             href: 'https://test.korzh.com',
             label: 'Home',
-            position: 'right',
+            position: 'left',
           },
           {
             href: 'https://github.com/olton/easyquery-js-docs',
